@@ -1,0 +1,17 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+.env
+*.ipynb_checkpoints
+
+# Data
+data/raw/
+data/processed/
+
+# VS Code
+.vscode/
